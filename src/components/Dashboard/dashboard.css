@@ -1,0 +1,28 @@
+.Dashboard {
+  /* border: 1px solid green; */
+  width: 100%;
+  display: flex;
+  /* gap: -2rem; */
+  height: 90%;
+  padding-top: 3rem;
+}
+
+.right {
+  display: flex;
+  width: 35%;
+  /* border: 1px solid yellow; */
+  align-items: center;
+  justify-content: center;
+}
+
+.left {
+  display: flex;
+  width: 65%;
+  flex-direction: column;
+  /* border: 1px solid white; */
+}
+
+.transactions {
+  display: flex;
+  flex-direction: column;
+}

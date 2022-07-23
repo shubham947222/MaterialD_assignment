@@ -1,0 +1,29 @@
+.Transaction {
+  display: flex;
+  width: 81.6rem;
+  /* border: 1px solid red; */
+  justify-content: space-around;
+  align-items: c;
+  margin-left: 5rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  font-size: 1rem;
+}
+.info > p {
+  margin-bottom: -1rem;
+  color: #8d8d8d;
+}
+.invoicebtn {
+  border: 1px solid white;
+  color: white;
+  background-color: transparent;
+  box-sizing: border-box;
+  width: 10.6rem;
+  height: 3.5rem;
+  margin-top: 1rem;
+  border-radius: 1.4rem;
+}

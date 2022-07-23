@@ -1,0 +1,46 @@
+.cashback {
+  display: flex;
+  width: 81.6rem;
+  height: 27.4rem;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+  background-color: #343435;
+  border-radius: 3rem;
+  margin: 5rem;
+}
+
+.cashbackText {
+  display: flex;
+  /* border: 1px solid green; */
+  flex-direction: column;
+  width: 35%;
+  color: white;
+  line-height: 3.5rem;
+  margin-left: 5rem;
+}
+.logoInCashback {
+  margin-top: 4rem;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  /* border: 1px solid blue; */
+}
+.text > p {
+  color: #8f8f8f;
+  font-size: 1.2rem;
+  margin-top: -2rem;
+}
+
+.btn {
+  color: #fed7fd;
+  background-color: pink;
+  padding: 1rem;
+  width: 12.2rem;
+  height: 4.8rem;
+  color: black;
+  border: none;
+  background: #fed7fd;
+  border-radius: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+}
