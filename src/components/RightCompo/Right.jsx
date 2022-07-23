@@ -1,17 +1,17 @@
 import React from "react";
 import "./Right.css";
-import one from "../../ass/0.svg";
-import two from "../../ass/1.svg";
-import three from "../../ass/3.svg";
-import four from "../../ass/4.svg";
-import left from "../../ass/left.svg";
-import right from "../../ass/right.svg";
-import amazon from "../../ass/amazon.svg";
-import flipkart from "../../ass/flipkart.svg";
-import myntra from "../../ass/myntra.svg";
-import small from "../../ass/small.svg";
-import small2 from "../../ass/small2.svg";
-import small3 from "../../ass/small3.svg";
+import one from "../../Assets/0.svg";
+import two from "../../Assets/1.svg";
+import three from "../../Assets/3.svg";
+import four from "../../Assets/4.svg";
+import left from "../../Assets/left.svg";
+import right from "../../Assets/right.svg";
+import amazon from "../../Assets/amazon.svg";
+import flipkart from "../../Assets/flipkart.svg";
+import myntra from "../../Assets/myntra.svg";
+import small from "../../Assets/small.svg";
+import small2 from "../../Assets/small2.svg";
+import small3 from "../../Assets/small3.svg";
 
 const Right = () => {
   return (
