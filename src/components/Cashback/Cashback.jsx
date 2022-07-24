@@ -15,7 +15,7 @@ const Cashback = () => {
           <h1>CashBack up to 60% ✨</h1>
           <p className="subheading">Get reward, gifts % cashback</p>
         </div>
-        <button className="btn">Get it now</button>
+        <button className="btn">Get it </button>
       </div>
       <div className="cashbackImage">
         <img src={CashbackImage} alt="" />
