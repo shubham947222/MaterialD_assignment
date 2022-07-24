@@ -9,6 +9,9 @@
   margin-bottom: 1rem;
   color: white;
 }
+.Transaction::-webkit-scrollbar {
+  display: none;
+}
 .info {
   display: flex;
   flex-direction: column;
