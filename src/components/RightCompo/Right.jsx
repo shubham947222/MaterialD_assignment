@@ -15,15 +15,15 @@ import small3 from "../../Assets/small3.svg";
 
 const Right = () => {
   return (
-    <div className="right-section">
+    <div className="rightSection">
       <div className="upperSection">
-        <div className="expense_nav">
+        <div className="expenseNav">
           <div>Expenses</div>
           <select>
             <option>Month</option>
           </select>
         </div>
-        <div className="expense_img">
+        <div className="expenseImg">
           <div className="expense1">
             <img src={one} alt="dummy" />
           </div>
@@ -38,37 +38,37 @@ const Right = () => {
         </div>
       </div>
       <div className="lowerSection">
-        <div className="cards_nav">
+        <div className="cardsNav">
           <div>Cards</div>
         </div>
-        <div className="cards_img">
+        <div className="cardsImg">
           <img className="leftIcon" src={left} alt="dummy" />
           <img className="creditCard" src={four} alt="dummy" />
           <img className="rightIcon" src={right} alt="dummy" />
         </div>
         <div className="graphSection">
-          <div className="graph-tabs">
+          <div className="graphTabs">
             <img src={amazon} alt="dummy" />
 
-            <div className="graph-div">
+            <div className="graphDiv">
               <p className="company">Amazon</p>
               <p className="time">2 hour ago</p>
             </div>
             <img className="graph" src={small} alt="dummy" />
             <div className="price">+$636.65</div>
           </div>
-          <div className="graph-tabs">
+          <div className="graphTabs">
             <img src={flipkart} alt="dummy" />
-            <div className="graph-div">
+            <div className="graphDiv">
               <p className="company">Flipkart</p>
               <p className="time">4 hour ago</p>
             </div>
             <img className="graph" src={small2} alt="dummy" />
             <div className="price">-$236.65</div>
           </div>
-          <div className="graph-tabs">
+          <div className="graphTabs">
             <img src={myntra} alt="dummy" />
-            <div className="graph-div">
+            <div className="graphDiv">
               <p className="company">Myntra</p>
               <p className="time">6 hour ago</p>
             </div>
