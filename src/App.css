@@ -47,7 +47,21 @@ html {
     width: 50%;
     height: 10rem;
 
-    border: 1px solid red;
+    /* border: 1px solid red; */
+  }
+  .logo {
+    margin-left: 25rem;
+    /* border: 1px solid red; */
+  }
+  .navbarOption {
+    margin-left: -15rem;
+  }
+  .Logotext {
+    display: none;
+  }
+  .Navbar {
+    position: relative;
+    /* border: 1px solid green; */
   }
   .cashbackImage {
     display: block;
