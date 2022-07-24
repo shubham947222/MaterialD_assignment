@@ -3,7 +3,8 @@
   width: 81.6rem;
   /* border: 1px solid red; */
   justify-content: space-around;
-  align-items: c;
+  align-items: center;
+  /* flex-wrap: wrap; */
   margin-left: 5rem;
   margin-bottom: 1rem;
   color: white;
